@@ -1,3 +1,3 @@
 Starter project!
 This is a website that allows customers to sign up for subscription.
-visit https://joeytaipei.github.io/ for more
+visit https://joeytaipei.github.io/Email-Subscription/ for more
